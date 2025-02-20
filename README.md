@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nyvixal
-- 👀 I’m interested in C++/Java game development
-- 🌱 I’m currently learning both of these languages
-- 💞️ I’m looking to collaborate on not too much(I like to code myself)
-- 📫 How to reach me: comments here or YouTube
+- 👀 I’m interested in C++ game development
+- 🌱 I’m currently learning how to get even better at C++
+- 💞️ I’m not looking to collaborate on too much
+- 📫 How to reach me: Don't :D
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I make Minecraft videos, YT @nyvixal
+- ⚡ Fun fact: I am very cool. YT @nyvixal
