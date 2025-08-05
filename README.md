@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Nyvixal
-- 👀 I’m interested in C++ game development
-- 🌱 I’m currently learning how to get even better at C++
-- 💞️ I’m not looking to collaborate on too much
-- 📫 How to reach me: Don't :D
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am very cool. YT @nyvixal
+- 👋 Hi, I’m a silly goose
